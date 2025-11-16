@@ -1,6 +1,10 @@
 streamlit
 pandas
 genson
-PyPDF2
 python-docx
+PyPDF2
 chardet
+fastapi
+uvicorn[standard]
+python-multipart
+python-dateutil
